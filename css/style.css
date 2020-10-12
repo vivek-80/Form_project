@@ -77,7 +77,7 @@ background-size: cover;
   margin-left: 12px !important;
 }
 .nav-item{
-  padding:0 10px !important;
+  padding:0 10px;
 }
 .container{
   text-align: center;
