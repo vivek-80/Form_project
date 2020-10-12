@@ -73,6 +73,9 @@ background-size: cover;
 .data{
   outline-color:#92a8d1;
 }
+.navbar-brand{
+  margin-left: 12px !important;
+}
 .nav-item{
   padding:0 10px;
 }
